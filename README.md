@@ -7,8 +7,8 @@ Tiktok create comments
 
 
 ### contact me
-## Contact Telegram @dacent53
-https://t.me/dacent53
+## Contact Telegram @dacent87
+https://t.me/dacent87
 
 ## tiktok API
 1. login to the user by email and username
@@ -35,5 +35,5 @@ https://t.me/dacent53
 
 
 ### contact me
-**Contact for api :** [https://t.me/dacent53](https://t.me/dacent53)
-## telegram: @dacent53
+**Contact for api :** [https://t.me/dacent87](https://t.me/dacent87)
+## telegram: @dacent87
